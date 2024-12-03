@@ -20,6 +20,7 @@ its located on the inspector as seen in the image
 
 
 you then need to go to sorce image  and make an image to add to it
+then you dublicate the image and change the coulor to red and call it red image.
 
 ![image](https://github.com/user-attachments/assets/aeb880b1-0be5-43b3-998c-7c64cfad3e8f)
 
