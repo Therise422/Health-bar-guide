@@ -30,6 +30,15 @@ what is paint?
 
 its an apllication that should come pre installed with your computer.
 
+then you add the image to souce image and call it bar.
+
+after youu will make a game objcet and call it Health manger 
+
+![image](https://github.com/user-attachments/assets/008830a4-b0bb-43b0-9493-de7875db97f5)
+
+it is located on there Hierachy  and you right click on there mouse and  click on crate empty and name it Health manger.
+
+
 
 
 
