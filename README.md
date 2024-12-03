@@ -23,7 +23,14 @@ you then need to go to sorce image  and make an image to add to it
 
 ![image](https://github.com/user-attachments/assets/aeb880b1-0be5-43b3-998c-7c64cfad3e8f)
 
-you can use the paint apllication  and make a suqre 
+you can use the paint apllication  and make a square 
+
+what is paint?
+
+its an apllication that should come pre installed with your computer.
+
+
+
 
 
 
