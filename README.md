@@ -44,6 +44,12 @@ Then you will create a health manger script and drag it to the newly created gam
 
 
 
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/2f7c0568-f72d-47ad-989a-ff14cd4a480d">
+
+
+
+
+
 
 
 
