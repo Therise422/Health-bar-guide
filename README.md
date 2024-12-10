@@ -46,6 +46,14 @@ Then you will create a health manger script and drag it to the newly created gam
 
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/2f7c0568-f72d-47ad-989a-ff14cd4a480d">
 
+make sure you drag the health manger to is attached to the health bar so it works.
+
+there code you will be useing is this.
+
+![image](https://github.com/user-attachments/assets/8604952f-92b8-403e-9852-0faabed0c319)
+
+![image](https://github.com/user-attachments/assets/607add46-7b6e-4df1-afdf-45701b871202)
+
 
 
 
