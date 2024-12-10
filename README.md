@@ -40,7 +40,7 @@ it is located on there Hierachy  and you right click on there mouse and  click o
 
 ![image](https://github.com/user-attachments/assets/d5f5c6f9-0eff-4c83-b296-c3d42fc211d0)
 
-Then you will create a health manger script and drag it to the newly created gameobject
+Then you will create a health manger script and drag it to the newly created gameobject which you named health manger
 
 
 
