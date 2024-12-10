@@ -30,7 +30,7 @@ what is paint?
 
 its an apllication that should come pre installed with your computer.
 
-then you add the image to souce image and call it bar.
+then you add the image to source image and call it bar.
 
 after youu will make a game objcet and call it Health manger 
 
