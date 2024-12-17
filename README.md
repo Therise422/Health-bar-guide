@@ -52,6 +52,10 @@ there code you will be useing is this.
 
 ![image](https://github.com/user-attachments/assets/8604952f-92b8-403e-9852-0faabed0c319)
 
+In this picture health manger scrpit you add the code unity enegine. ui 
+
+
+
 ![image](https://github.com/user-attachments/assets/607add46-7b6e-4df1-afdf-45701b871202)
 
 
